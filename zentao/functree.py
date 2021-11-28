@@ -6,8 +6,7 @@ sheet = wb.active
 # print(a1)
 # print(sheet.cell(4,3).value)
 
-i = 2
-j = 1
+
 
 
 def findrow(all_row, all_col):

@@ -75,7 +75,7 @@ if __name__ == '__main__':
     # findrow((16, 28), (1, 6))
     # 获取大功能列的索引
     # idx_list = functree.get_idxs(1, 28)
-    # # 获取每组大功能的列索区间
+    # # 获取每组大功能的列索引区间
     # row_tuples = functree.get_rowtuples(idx_list)
     # # 每个功能区间写入功能树列表
     # functree.write_tree(row_tuples)
